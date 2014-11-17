@@ -20,6 +20,7 @@ Hours: An array of key/value pairs
 * Each restaurant must have Monday through Sunday entries
 * Sample: http://130.191.3.5/~jayaprak/sdsuDining/hours.html
 * Update the URL or key tags within the mobile app when necessary
+* Hours for Farmer's Market, Catering, Sweet, and Contact Us must also be provided
 * Key/Value pairs:
 	* id: Unique restaurant-day id
 	* active: Boolean (true/false) hours status. Primarily used to determine if hours entry is still valid or not
